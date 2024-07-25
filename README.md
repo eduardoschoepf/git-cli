@@ -12,3 +12,8 @@ git config --global user.email "youremail@example.com"
 ```bash
 git config --list
 ```
+
+### Initialize a Git repository
+```bash
+git init
+```
