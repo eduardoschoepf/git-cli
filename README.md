@@ -1,4 +1,4 @@
-# Git Commands Cheat Sheet
+hi# Git Commands Cheat Sheet
 
 ## Initial Configuration
 
@@ -32,5 +32,10 @@ git add .
 ###  Commit changes
 ```bash
 git commit -m "Commit message"
+```
+
+### Check the repository status
+```bash
+git status
 ```
 
