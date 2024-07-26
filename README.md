@@ -39,3 +39,8 @@ git commit -m "Commit message"
 git status
 ```
 
+### View commit history
+```bash
+git log
+```
+
