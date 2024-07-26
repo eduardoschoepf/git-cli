@@ -1,4 +1,4 @@
-hi# Git Commands Cheat Sheet
+# Git Commands Cheat Sheet
 
 ## Initial Configuration
 
@@ -38,6 +38,33 @@ git commit -m "Commit message"
 ### Check the repository status
 ```bash
 git status
+```
+
+## Working with Branches
+
+### Create a new branch
+```bash
+git branch <branch-name>
+```
+
+### Switch to another branch
+```bash
+git checkout <branch-name>
+```
+
+### Create and switch to a new branch
+```bash
+git checkout -b <branch-name>
+```
+
+### Merge a branch into the current branch
+```bash
+git merge <branch-name>
+```
+
+### Delete a branch
+```bash
+git branch -d <branch-name>
 ```
 
 ### View commit history
