@@ -40,6 +40,11 @@ git commit -m "Commit message"
 git status
 ```
 
+### View commit history
+```bash
+git log
+```
+
 ## Working with Branches
 
 ### Create a new branch
@@ -66,9 +71,3 @@ git merge <branch-name>
 ```bash
 git branch -d <branch-name>
 ```
-
-### View commit history
-```bash
-git log
-```
-
