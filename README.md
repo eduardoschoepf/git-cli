@@ -73,3 +73,8 @@ git branch -d <branch-name>
 ```
 
 ## Working with Remote Repositories
+
+### Add a remote repository
+```bash
+git remote add origin <repository-url>
+```
