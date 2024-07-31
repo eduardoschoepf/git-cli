@@ -88,3 +88,8 @@ git remote -v
 ```bash
 git push origin <branch-name>
 ```
+
+### Pull updates from the remote repository
+```bash
+git pull origin <branch-name>
+```
