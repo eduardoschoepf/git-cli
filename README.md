@@ -83,3 +83,8 @@ git remote add origin <repository-url>
 ```bash
 git remote -v
 ```
+
+### Push commits to the remote repository
+```bash
+git push origin <branch-name>
+```
