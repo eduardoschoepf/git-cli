@@ -78,3 +78,8 @@ git branch -d <branch-name>
 ```bash
 git remote add origin <repository-url>
 ```
+
+### View remote repositories
+```bash
+git remote -v
+```
