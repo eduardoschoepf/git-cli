@@ -93,3 +93,8 @@ git push origin <branch-name>
 ```bash
 git pull origin <branch-name>
 ```
+
+### Clone a remote repository
+```bash
+git clone <repository-url>
+```
