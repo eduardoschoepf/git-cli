@@ -100,3 +100,8 @@ git clone <repository-url>
 ```
 
 ## Other Useful Commands
+
+### Stash uncommitted changes
+```bash
+git stash
+```
