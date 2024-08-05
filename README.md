@@ -105,3 +105,8 @@ git clone <repository-url>
 ```bash
 git stash
 ```
+
+### Apply stashed changes
+```bash
+git stash apply
+```
