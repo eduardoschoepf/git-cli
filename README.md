@@ -110,3 +110,8 @@ git stash
 ```bash
 git stash apply
 ```
+
+### Show differences between versions
+```bash
+git diff
+```
