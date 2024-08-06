@@ -115,3 +115,8 @@ git stash apply
 ```bash
 git diff
 ```
+
+### Revert a commit
+```bash
+git revert <commit-id>
+```
