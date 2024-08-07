@@ -120,3 +120,9 @@ git diff
 ```bash
 git revert <commit-id>
 ```
+
+### Reset changes
+```bash
+git reset --hard <commit-id>
+```
+
